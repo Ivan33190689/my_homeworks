@@ -3,3 +3,13 @@ C:\repo\HomeWork02_c_sharp\Homework\obj\Debug\net6.0\Homework.GeneratedMSBuildEd
 C:\repo\HomeWork02_c_sharp\Homework\obj\Debug\net6.0\Homework.AssemblyInfoInputs.cache
 C:\repo\HomeWork02_c_sharp\Homework\obj\Debug\net6.0\Homework.AssemblyInfo.cs
 C:\repo\HomeWork02_c_sharp\Homework\obj\Debug\net6.0\Homework.csproj.CoreCompileInputs.cache
+C:\repo\HomeWork02_c_sharp\Homework\bin\Debug\net6.0\Homework.exe
+C:\repo\HomeWork02_c_sharp\Homework\bin\Debug\net6.0\Homework.deps.json
+C:\repo\HomeWork02_c_sharp\Homework\bin\Debug\net6.0\Homework.runtimeconfig.json
+C:\repo\HomeWork02_c_sharp\Homework\bin\Debug\net6.0\Homework.dll
+C:\repo\HomeWork02_c_sharp\Homework\bin\Debug\net6.0\Homework.pdb
+C:\repo\HomeWork02_c_sharp\Homework\obj\Debug\net6.0\Homework.dll
+C:\repo\HomeWork02_c_sharp\Homework\obj\Debug\net6.0\refint\Homework.dll
+C:\repo\HomeWork02_c_sharp\Homework\obj\Debug\net6.0\Homework.pdb
+C:\repo\HomeWork02_c_sharp\Homework\obj\Debug\net6.0\Homework.genruntimeconfig.cache
+C:\repo\HomeWork02_c_sharp\Homework\obj\Debug\net6.0\ref\Homework.dll

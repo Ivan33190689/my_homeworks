@@ -61,16 +61,16 @@
 // Напишите программу, которая принимает на вход цифру, 
 // обозначающую день недели, и проверяет, является ли этот день выходным.
 
-// Console.WriteLine("Input a number: ");
-// int weekends = Convert.ToInt32(Console.ReadLine());
+Console.WriteLine("Input a number: ");
+int weekends = Convert.ToInt32(Console.ReadLine());
 
-//     switch(weekends)
-//     {
-//         case 6:
-//         case 7:
-//             Console.Write("Weekend");
-//                 break;
-//         default:
-//             Console.Write("No");
-//                 break;
-//     }
+    switch(weekends)
+    {
+        case 6:
+        case 7:
+        Console.WriteLine("Weekend");
+                break;
+        default:
+                Console.WriteLine("No");
+                        break;
+    }
