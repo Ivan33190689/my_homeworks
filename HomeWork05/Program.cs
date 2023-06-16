@@ -206,4 +206,4 @@ int[] array = GetArray(getlength);
 Console.WriteLine(String.Join(", ", array));
 
 int[] newarray = CompositionNumbers(array);
-Console.WriteLine(newarray);
+Console.WriteLine(String.Join(", ", newarray));
